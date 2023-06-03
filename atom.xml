@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>琉璃飞雪</title>
+  
+  <subtitle>琉璃飞雪</subtitle>
+  <link href="http://ruffec.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://ruffec.github.io/"/>
+  <updated>2023-06-03T08:53:49.681Z</updated>
+  <id>http://ruffec.github.io/</id>
+  
+  <author>
+    <name>Ruffec</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图片标注教程</title>
+    <link href="http://ruffec.github.io/article/tu-pian-biao-zhu-jiao-cheng.html"/>
+    <id>http://ruffec.github.io/article/tu-pian-biao-zhu-jiao-cheng.html</id>
+    <published>2021-06-05T13:17:35.000Z</published>
+    <updated>2023-06-03T08:53:49.681Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;图片标注教程&quot;&gt;&lt;a href=&quot;#图片标注教程&quot; class=&quot;headerlink&quot; title=&quot;图片标注教程&quot;&gt;&lt;/a&gt;图片标注教程&lt;/h1&gt;&lt;h2 id=&quot;●-1、解压标注工具&quot;&gt;&lt;a href=&quot;#●-1、解压标注工具&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="labelimg" scheme="http://ruffec.github.io/categories/labelimg/"/>
+    
+    
+    <category term="图片标注" scheme="http://ruffec.github.io/tags/%E5%9B%BE%E7%89%87%E6%A0%87%E6%B3%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue-devtools安装错误解决办法</title>
+    <link href="http://ruffec.github.io/article/vue-devtools-processed.html"/>
+    <id>http://ruffec.github.io/article/vue-devtools-processed.html</id>
+    <published>2020-11-09T14:15:47.000Z</published>
+    <updated>2021-06-09T15:00:26.566Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;vue-devtools安装错误解决办法&quot;&gt;&lt;a href=&quot;#vue-devtools安装错误解决办法&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="vue-devtools" scheme="http://ruffec.github.io/categories/vue-devtools/"/>
+    
+    
+    <category term="vue.js" scheme="http://ruffec.github.io/tags/vue-js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端学习资料</title>
+    <link href="http://ruffec.github.io/article/qian-duan-xue-xi-zi-liao.html"/>
+    <id>http://ruffec.github.io/article/qian-duan-xue-xi-zi-liao.html</id>
+    <published>2020-08-09T14:15:47.000Z</published>
+    <updated>2021-06-09T15:00:06.109Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前端学习资料&quot;&gt;&lt;a href=&quot;#前端学习资料&quot; class=&quot;headerlink&quot; title=&quot;前端学习资料&quot;&gt;&lt;/a&gt;前端学习资料&lt;/h1&gt;&lt;h3 id=&quot;【码农雨飞-2020-精品】2020纯原生前端技术打造仿小米电商网站视频【千锋】&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="vue资料" scheme="http://ruffec.github.io/categories/vue%E8%B5%84%E6%96%99/"/>
+    
+    
+    <category term="vue" scheme="http://ruffec.github.io/tags/vue/"/>
+    
+    <category term="css" scheme="http://ruffec.github.io/tags/css/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VMware 安装 CentOS 8.1 完整教程 </title>
+    <link href="http://ruffec.github.io/article/vmware-an-zhuang-centos-8-1-wan-zheng-jiao-cheng.html"/>
+    <id>http://ruffec.github.io/article/vmware-an-zhuang-centos-8-1-wan-zheng-jiao-cheng.html</id>
+    <published>2020-03-05T10:29:16.000Z</published>
+    <updated>2021-05-25T09:21:24.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我使用的&lt;font color=&quot;red&quot; size=&quot;3&quot;&gt;VMware&lt;/font&gt;版本：&lt;font color=&quot;red&quot; size=&quot;3&quot;&gt;VMware 15 Pro&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;镜像：&lt;font color=&quot;red&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="http://ruffec.github.io/categories/Linux/"/>
+    
+    
+    <category term="VMware" scheme="http://ruffec.github.io/tags/VMware/"/>
+    
+    <category term="CentOS" scheme="http://ruffec.github.io/tags/CentOS/"/>
+    
+  </entry>
+  
+</feed>
